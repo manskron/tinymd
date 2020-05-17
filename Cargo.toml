@@ -1,0 +1,11 @@
+[package]
+name = "tinymd"
+version = "0.2.0"
+authors = ["Måns Kronkvist Brusbäck <manskron@gmail.com>"]
+edition = "2018"
+description = "A tiny markdown compiler based on Jesse's tutorials."
+homepage = "https://github.com/manskron"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
